@@ -1,0 +1,2 @@
+- [Guide to set up Github Page site with Jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll)
+- [Install ruby](https://www.moncefbelyamani.com/how-to-install-xcode-homebrew-git-rvm-ruby-on-mac/?utm_source=stackoverflow&utm_campaign=51126403)
