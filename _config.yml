@@ -22,7 +22,7 @@ title: yuanyuanchen
 email: chenyy1996@yahoo.com
 description: >- # this means to ignore newlines until "baseurl:"
   Some space to jot down my data science learnings
-baseurl: "/yuanyuanchen.github.io/" # the subpath of your site, e.g. /blog
+baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "https://yy96.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: yy
 github_username:  yy96
